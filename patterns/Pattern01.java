@@ -19,7 +19,7 @@ public class Pattern01 {
 				}
 				System.out.println();
 			}
-
+jkjfkja
 	}
 
 }
