@@ -12,7 +12,7 @@
 
 package patterns;
 
-public class Pattern9 {
+public class Pattern09 {
 
 	public static void main(String[] args) {
 		
